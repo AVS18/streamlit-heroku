@@ -1,2 +1,2 @@
-streamlit==0.84.1
-opencv-python==4.5.3.56
+streamlit==0.61.0
+opencv-python==4.2.0.34
